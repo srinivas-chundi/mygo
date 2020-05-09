@@ -1,0 +1,2 @@
+# mygo
+Its your golang
